@@ -1,1 +1,2 @@
-### Repo for my personal github.io site
+### Personal github.io 
+##### This outlines how shitty frankhanner.github.io is
